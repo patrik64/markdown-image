@@ -1,3 +1,3 @@
 
 standard markdown image link:
-![](../../images/cat.jpeg)
+![CAT](../../images/cat.jpeg)

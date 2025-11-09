@@ -1,3 +1,3 @@
 
 html img tag:
-<img alt="cat" src="../../images/cat.jpeg" width="300" height="500" />
+<img alt="CAT" src="../../images/cat.jpeg" width="300" height="500" />
