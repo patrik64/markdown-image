@@ -9,7 +9,7 @@ Lorem Ipsum 1
 
 Lorem Ipsum 2
 
-3. improper mix of standard image tag with html img tag:
+improper mix of standard image tag with html img tag:
 ![CAT](<img alt="cat" src="../../images/cat.jpeg" />)
 
 Lorem Ipsum 3
