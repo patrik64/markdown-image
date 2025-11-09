@@ -1,5 +1,5 @@
 
-standard markdown image link:
+1. standard markdown image link:
 ![CAT](../../images/cat.jpeg)
 
 Lorem Ipsum 1
