@@ -4,7 +4,7 @@
 
 Lorem Ipsum 1
 
-html img tag:
+2. html img tag:
 <img alt="cat" src="../../images/cat.jpeg" />
 
 Lorem Ipsum 2
