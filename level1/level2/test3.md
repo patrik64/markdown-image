@@ -1,4 +1,4 @@
 
-improper mix of standard image tag with html img tag:
+improper mix of standard image tag with html img tag - should fail:
 ![CAT](<img alt="CAT" src="../../images/cat.jpeg" width="300" height="500" />)
 Lorem Ipsum
