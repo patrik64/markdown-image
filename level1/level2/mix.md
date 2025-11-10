@@ -9,17 +9,17 @@ Lorem Ipsum 1
 
 Lorem Ipsum 2
 
-improper mix of standard image tag with html img tag:
+improper mix of standard image tag with html img tag - should fail:
 ![CAT](<img alt="cat" src="../../images/cat.jpeg" />)
 
 Lorem Ipsum 3
 
-html img tag without ending slash:
+html img tag without ending slash - should work:
 <img alt="cat" src="../../images/cat.jpeg">
 
 Lorem Ipsum 4
 
-standard markdown image link with single quoted path:
+standard markdown image link with single quoted path - should fail:
 ![CAT]('../../images/cat.jpeg')
 
 Lorem Ipsum 5
